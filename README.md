@@ -1,4 +1,0 @@
-SecretlyPrivate
-===============
-
-My first mod.
