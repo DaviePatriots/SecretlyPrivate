@@ -1,0 +1,16 @@
+#Keys
+keys.secretlyprivate.category=Secretly Private
+keys.secretlyprivate.charge=Charge
+keys.secretlyprivate.release=Release
+
+
+#Items
+item.secretlyprivate:meatyDonger.name=The Meaty Donger
+
+
+#Blocks
+tile.secretlyprivate:flag.name=Canadian Flag
+
+
+#Creative Tab
+itemGroup.secretlyprivate=Secretly Private

@@ -1,0 +1,21 @@
+[
+{
+  "modid": "secretlyprivate",
+  "name": "Secretly Private",
+  "description": "Plz",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "DaviePatriots"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
