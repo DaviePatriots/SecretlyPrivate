@@ -2,6 +2,7 @@ package com.daviepatriots.secretlyprivate.item;
 
 
 import com.daviepatriots.secretlyprivate.creativetab.CreativeTabSP;
+import com.daviepatriots.secretlyprivate.reference.Names;
 import com.daviepatriots.secretlyprivate.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -20,7 +21,7 @@ public class ItemMeatyDonger extends ItemFood
     public ItemMeatyDonger()
     {
         super(4, 1.0F, false);   //(Hunger_Shanks/2, Saturation_Multiplier, Will_Wolf_Eat?)
-        this.setUnlocalizedName("meatyDonger");
+        this.setUnlocalizedName(Names.Items.MEATY_DONGER);
         this.setMaxDamage(0);
         this.setMaxStackSize(64);
         canRepair = false;
